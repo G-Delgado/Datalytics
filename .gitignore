@@ -1,0 +1,5 @@
+venv
+*.class
+*.jar
+node_modules
+.idea
